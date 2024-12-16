@@ -1,7 +1,8 @@
 body {
     margin: 0;
     padding: 0;
-    background: #fdc9d1;
+    /* background: #fdc9d1; */
+    background: #ffffff;
     font-size: 12px;
     overflow: auto
 }
